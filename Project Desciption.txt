@@ -1,4 +1,1 @@
 MVC Angular project
-Entity Framework
-
-Latest code
